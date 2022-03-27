@@ -1,0 +1,4 @@
+# Sample file to ignore in the repo
+
+.DS_store
+.idea/vcs.xml
